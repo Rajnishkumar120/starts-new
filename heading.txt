@@ -1,0 +1,8 @@
+there are six type of heading
+h1- it is the biggest heading among all
+
+h2- it is the second biggest heading among all the 
+h3
+h4
+h5
+h6 -it is the smallest heading among all
